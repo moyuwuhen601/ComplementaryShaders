@@ -14,3 +14,7 @@
 有关光影文件本体开发相关内容，请访问 [ComplementaryDevelopment](https://github.com/ComplementaryDevelopment)；
 光影文件的下载安装参见 [主页上的安装说明](https://www.complementary.dev/shaders/#download-section)，
 或者请前往 [CurseForge](https://www.curseforge.com/minecraft/customization/complementary-shaders/files) / [Modrinth](https://modrinth.com/shader/complementary-unbound/version/latest) 手动下载。
+
+
+## 安装教程
+将语言文件`zh_CN.lang`放置在光影文件夹下的\shaders\lang文件夹中即可。
